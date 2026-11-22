@@ -1,0 +1,23 @@
+{
+  "hypergrad": [
+    "gbaydin/hypergradient-descent",
+    "020d6080c4cedfbc88d5cdb7a2a53f92b34c2b16",
+    [
+      "hypergrad/sgd_hd.py",
+      "hypergrad/adam_hd.py",
+      "train.py",
+      "run.sh",
+      "LICENSE",
+      "README.md"
+    ]
+  ],
+  "muon": [
+    "KellerJordan/Muon",
+    "f98f1cacc0263b04290753e32be8d498c1efc806",
+    [
+      "muon.py",
+      "LICENSE",
+      "README.md"
+    ]
+  ]
+}
